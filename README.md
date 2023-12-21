@@ -4,6 +4,7 @@
 - I’m in the process of learning C++, Java and SQL
 - Looking to collaborate on any good project that is developed in aforementioned programming languages
 - How to reach me: [tlb-kei7@yandex.ru](tlb-kei7@yandex.ru)
-  
-![<TRY>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<GitHub>&logoColor=<Logo Color>)
 
+### Programming languages:
+
+<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=C&logoColor=blue"/> <img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=cplusplus&logoColor=blue"/> <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=javascript&logoColor=yellow"/>
